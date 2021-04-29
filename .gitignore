@@ -4,3 +4,4 @@ extras/
 New folder/
 new_dataset/
 conf_matrix/
+*.npy
